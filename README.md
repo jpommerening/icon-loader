@@ -2,7 +2,7 @@
 
 > I feel stupid for creating [yet](https://www.npmjs.com/package/fontmin-loader) [another](https://www.npmjs.com/package/awesome-fontmin-loader) [font](https://www.npmjs.com/package/font-subset-loader) [loader](https://www.npmjs.com/package/font-gen-loader), but here it is.
 
-## ![But why?](https://raw.githubusercontent.com/jpommerening/icon-loader/i/but-why.gif)
+## ![But why?](https://raw.githubusercontent.com/jpommerening/icon-loader/master/i/but-why.gif)
 
 I wanted a font loader to:
 
