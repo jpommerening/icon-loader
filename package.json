@@ -1,0 +1,13 @@
+{
+  "name": "icon-loader",
+  "description": "I feel stupid for creating yet another font loader, but here it is.",
+  "also": "😐",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "peerDependencies": {
+    "fontmin": "^0.9.6"
+  }
+}
